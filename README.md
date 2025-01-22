@@ -1,5 +1,3 @@
-# <p align="center"><img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px"> I'm Alejandro!</p>
-
 <h1 align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=75&letterSpacing=1px&duration=2500&pause=500&color=21BB07&background=00000079&center=true&multiline=true&width=1920&height=384&lines=Hi+everyone!;Welcome+to+my+Github;Although+I'm+a+SAP+Consultant;I+have+passion+for+code" alt="Typing SVG" /></a>
 </h1>
