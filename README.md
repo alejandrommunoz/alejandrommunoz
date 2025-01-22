@@ -17,47 +17,41 @@
     </a>
 </p>
 <h4 align="center">
-
+<p align="center">
+  <em>
+  I am Alejandro Montoya, a Data Analyst and SAP Consultant <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">  with a passion for uncovering insights from data and exploring the world of business finance. 
+  </em> 
+  <br>
+I enjoy coding and thrive as a dedicated self-learner, constantly seeking opportunities to grow and innovate.</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
   
 ```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+ccccccccccccloddxxxkkkxxxdoolccccccccccccccccccclllllllllllllccccccccccccclllllllllllllllllllllcccccccccccccccccccccccccccccccccccccccclxKWMMMMMMMMMMM
+ccccccccoxk0KXNWWWMMMMMWWWNXKKOkxdlccccccccccclxKXKXXXXXXKKK0dcccccccccccdKKKKXXXXXXXXXXXXKKKKK00OkxdolcccccccccccccccccccccccccccccclxKWMMMMMMMMMMMMM
+cccccox0XWMMMMMMMMMMMMMMMMMMMMMMWNXOdcccccccccdXMMMMMMMMMMMMWKocccccccccckNMMMMMMMMMMMMMMMMMMMMMMMMWWNKOxlccccccccccccccccccccccccclxKWMMMMMMMMMMMMMMM
+ccclkXWMMMMMMMMMMMMMMMMMMMMMMMMMMMW0occcccccco0WMMMMMMMMMMMMMWOlccccccccckNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXkoccccccccccccccccccccclxKWMMMMMMMMMMMMMMMMM
+cco0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOl:cccc:cclOWMMMMMMMMMMMMMMMNxc::c::ccckNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKdccc:::cccccccccc:clxKWMMMMMMMMMMMMMMMMMMM
+:lOWMMMMMMMMMMWNK0OOO00KKXNWMMMMNkl::::::c:ckNMMMMMMMMMMMMMMMMMXdc::::::cxNMMMMMMMMMMMWNXXXXNNWWMMMMMMMMMMMMXdc:::::::::c::::lxKWMMMMMMMMMMMMMMMMMMMMM
+:xNMMMMMMMMMMNOocc::::ccclodkOKKxc::::::::cdXMMMMMMMMMMMMMMMMMMW0l:::::::xWMMMMMMMMMMMNklllllodkKWMMMMMMMMMMW0l::::::::::::lxKWMMMMMMMMMMMMMMMMMMMMMMM
+ckWMMMMMMMMMMNkc::::::::::::::cc::::::::::o0WMMMMMMMMMMMMMMMMMMMWkc::::::xNMMMMMMMMMMMNd::::::::lkNMMMMMMMMMMXd::::::::::lxKWMMMMMMMMMMMMMMMMMMMMMMMMM
+:kWMMMMMMMMMMMNKkdlc:::::::::::::::::::::cOWMMMMMMMMMXKNMMMMMMMMMNx::::::xNMMMMMMMMMMMNd:::::::::oXMMMMMMMMMMNx::::::::cdKWMMMMMMMMMMMMMMMMMMMMMMMMMMM
+:oXMMMMMMMMMMMMMMWNKOkdoc:::::::::::::::cxNMMMMMMMMMNklOWMMMMMMMMWKo:::::xNMMMMMMMMMMMNd:::::::::dXMMMMMMMMMMNx::::::cxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+::xXWMMMMMMMMMMMMMMMMMWNX0Oxoc::::::::::dXMMMMMMMMMW0l:oKMMMMMMMMMW0l::::xNMMMMMMMMMMMNd:::::::cdKWMMMMMMMMMMXo::::cdKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+:::dKWMMMMMMMMMMMMMMMMMMMMMWNKOdl::::::l0WMMMMMMMMMXd:::xNMMMMMMMMMNkc:::xNMMMMMMMMMMMNOoooodxk0NMMMMMMMMMMMWOc::cdKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+::;:cd0NWMMMMMMMMMMMMMMMMMMMMMMWXkl:;;cOWMMMMMMMMMWkc;;;l0WMMMMMMMMMXd:;:xNMMMMMMMMMMMMWWWWWWMMMMMMMMMMMMMMW0l:cdKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+;;;;;;:lxOKNWMMMMMMMMMMMMMMMMMMMMWXx::xNMMMMMMMMMWKl;;;;:dXMMMMMMMMMWKo;:xNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOlcdKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+;;;;;;;;;;:ldxOKXNWMMMMMMMMMMMMMMMMNxdXMMMMMMMMMMNx:;;;;;:kWMMMMMMMMMWOc;xNMMMMMMMMMMMMMMMMMMMMMMMMMMMMWN0dldKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+;;;;;;;;;;;;;;;:cldxOKNMMMMMMMMMMMMMNNWMMMMMMMMMMXxolllllokNMMMMMMMMMMNx:xNMMMMMMMMMMMMMMMMMMMMMMMMWNXOxlcdKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+;;;;;;;;;;;;;;;;;;;;;:oONMMMMMMMMMMMMMMMMMMMMMMMMMWWNNNNNWWMMMMMMMMMMMMXdxNMMMMMMMMMMMWX0000000OOkxdlc;cdKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+;;;;;coc:;;;;;;;;;;;;;;lKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWK0NMMMMMMMMMMMNd:;;;;;;;;;;;;:dKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+;;;;l0NX0kdlc::;;;;::cd0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWMMMMMMMMMMMNd;;;;;;;;;;;:d0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+;;;l0WMMMMWNXK00000KKXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXo;;;;;;;;;:d0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+,;l0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKO0KXXNNNNNNXK00XMMMMMMMMMMMMMMMMMMMMMMMXo,,,,,,;:d0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+,c0WMMMMMMMMMMMMMMMMMMMMMMMMMMMWWMMMMMMMMMMMW0c;;::cccllccc:;;dNMMMMMMMMMMMMMMMMMMMMMMXo,,,,,:d0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+,:ok0NWMMMMMMMMMMMMMMMMMMMMWNKkxKWWMMMMMMMMWKl,,,,,,,,,,,,,,,,:OWMMMMMMMMMMMMMMMMMMMMWXo,,,:d0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+,,,,;coxkOKKXNNNWWWNNNXK0Oxoc;,:ldddddddddddc;,,,,,,,,,,,,,,,,,codddddddddddddddddddddo:,:d0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+,,,,,,,,,,;;:cclllllcc:;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:d0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 ```
+<h4 align="center">
+</p>
 
-</h4>  
-  
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/master/github-contribution-grid-snake.svg)
-
-<br/>
-
-<!--
-**alejandrommunoz/alejandrommunoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
